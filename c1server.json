@@ -1,1 +1,4 @@
-{"target_site":"arunserver.ddns.net"}
+{
+  "target_site":"arunserver.ddns.net",
+  "target_type":"self"
+}
